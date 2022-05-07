@@ -12,18 +12,18 @@ const get = (req, res) => {
     {
       id: "2",
       title: "Artificial Intelligence",
-                img: "https://thumbs.dreamstime.com/z/futuristic-robot-artificial-intelligence-cgi-big-data-analytics-programming-robotic-man-d-render-Animetion-illustration-196113081.jpg",
-                
-                info: "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to natural intelligence displayed by animals including humans. Leading AI textbooks define the field as the study of : any system that perceives its environment and takes actions that maximize its chance of achieving its goals.[a] AI applications include advanced web search engines (e.g., Google), recommendation systems (used by YouTube, Amazon.",
-                subinfo: "Technology  / March 25, 2022 ",
+      img: "https://thumbs.dreamstime.com/z/futuristic-robot-artificial-intelligence-cgi-big-data-analytics-programming-robotic-man-d-render-Animetion-illustration-196113081.jpg",
+
+      info: "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to natural intelligence displayed by animals including humans. Leading AI textbooks define the field as the study of : any system that perceives its environment and takes actions that maximize its chance of achieving its goals.[a] AI applications include advanced web search engines (e.g., Google), recommendation systems (used by YouTube, Amazon.",
+      subinfo: "Technology  / March 25, 2022 ",
     },
 
     {
       id: "3",
       title: "Aerobics",
-                img: "https://i.ytimg.com/vi/965qZScyVVI/maxresdefault.jpg",
-                info: " Aerobics is a form of physical exercise that combines rhythmic aerobic exercise with stretching and strength training routines with the goal of improving all elements of fitness (flexibility, muscular strength, and cardio-vascular fitness). It is usually performed to music and may be practiced in a group setting led by an instructor (fitness professional), although it can be done solo and without musical accompaniment. With the goal of preventing illness and promoting physical fitness, practitioners perform various routines comprising a number of different dance.",
-                subinfo: "Fitness  / January 10, 2022 ",
+      img: "https://i.ytimg.com/vi/965qZScyVVI/maxresdefault.jpg",
+      info: " Aerobics is a form of physical exercise that combines rhythmic aerobic exercise with stretching and strength training routines with the goal of improving all elements of fitness (flexibility, muscular strength, and cardio-vascular fitness). It is usually performed to music and may be practiced in a group setting led by an instructor (fitness professional), although it can be done solo and without musical accompaniment. With the goal of preventing illness and promoting physical fitness, practitioners perform various routines comprising a number of different dance.",
+      subinfo: "Fitness  / January 10, 2022 ",
     },
 
     // OBJECTS RELATED TO TOP POST DETAILS IN HOME PAGE
@@ -68,9 +68,9 @@ const get = (req, res) => {
       id: "9",
       title: "JAMMU & KASHMIR",
       img: "https://www.worldatlas.com/upload/70/33/ab/shutterstock-115227475.jpg",
-      
+
       info: " Jammu and Kashmir is a region administered by India as a union territory and consisting of the southern portion of the larger Kashmir region, which has been the subject of a dispute between India and Pakistan since 1947, and between India and China since 1962.",
-       moreinfo: "Tourism  / January 22, 2022 ",
+      moreinfo: "Tourism  / January 22, 2022 ",
     },
     {
       id: "10",
