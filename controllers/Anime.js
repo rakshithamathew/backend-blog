@@ -1,5 +1,5 @@
 const get = (req, res) => {
-    const tollywooddata= 
+    const Anime= 
   
         [
           {
